@@ -9797,3 +9797,8 @@ textarea.form-control {
   padding-left: 100px;
   margin-top: 100px;
 }
+.about-image{
+  height: 50%;
+  margin-top: 160px;
+  border-radius: 100%;
+}
