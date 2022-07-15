@@ -7,6 +7,7 @@
     parallaxBackgrounds: true,
     parallaxElements: true,
     horizontalScrolling: false,
+	// verticalScrolling:true,
     hideDistantElements: false,
     scrollProperty: 'scroll'
   });
