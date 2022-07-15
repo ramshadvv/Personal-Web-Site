@@ -8798,7 +8798,8 @@ h1, h2, h3, h4, h5,
   width: 100%; }
   .ftco-about ul.about-info li {
     list-style: none;
-    margin-bottom: 10px; }
+    margin-bottom: 15px;
+   }
     .ftco-about ul.about-info li span {
       width: calc(100% - 130px);
       font-weight: 600;
@@ -9800,5 +9801,4 @@ textarea.form-control {
 .about-image{
   height: 50%;
   margin-top: 160px;
-  border-radius: 100%;
 }
