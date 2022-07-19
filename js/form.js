@@ -9,6 +9,7 @@ $(document).ready(function () {
       },
       email: {
         required: true,
+        email: true,
       },
       subject: {
         required: true,
